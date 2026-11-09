@@ -18,8 +18,7 @@ The goal of this PoC is to demonstrate concepts such as pseudonymization, maskin
 ## Techniques Used 
 
 ### PII Handling Per Field
-<img width="1075" height="694" alt="Screenshot 2026-11-05 112734" src="https://github.com/user-attachments/assets/f5d65a34-2227-4e4e-a0c0-40e376cbaabf" />
-
+<img width="1089" height="757" alt="Screenshot 2026-11-09 161705" src="https://github.com/user-attachments/assets/c69a9ae2-8239-4940-87d8-dfd7edcdfd73" />
 
 ### HMAC-Based Psuedonymization
 HMAC-based pseudonymization is used on identifier fields such as client_id to protect the original identifiers while preserving relationships between tables.
@@ -33,7 +32,11 @@ For the purpose of this simple PoC I stored the key as an environment variable s
 
 ### Converting source data to sanitized data 
 
+#### Client Table
 <img width="1954" height="449" alt="Screenshot 2026-11-06 162357" src="https://github.com/user-attachments/assets/cb97be3a-3fd4-4073-a753-d1e9343ad1e0" />
+
+#### Policies Table
+<img width="898" height="191" alt="Screenshot 2026-11-09 161830" src="https://github.com/user-attachments/assets/813679bc-1afa-4a15-8688-aa97824ccb10" />
 
 ### Testing Table Relationship with sanitized database 
 
