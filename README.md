@@ -32,11 +32,8 @@ For the purpose of this simple PoC I stored the key as an environment variable s
 
 ### Converting source data to sanitized data 
 
-#### Client Table
 <img width="1954" height="449" alt="Screenshot 2026-11-06 162357" src="https://github.com/user-attachments/assets/cb97be3a-3fd4-4073-a753-d1e9343ad1e0" />
 
-#### Policies Table
-<img width="898" height="191" alt="Screenshot 2026-11-09 161830" src="https://github.com/user-attachments/assets/813679bc-1afa-4a15-8688-aa97824ccb10" />
 
 ### Testing Table Relationship with sanitized database 
 
