@@ -13,7 +13,11 @@ The goal of this PoC is to demonstrate concepts such as pseudonymization, maskin
 
 <img width="1023" height="638" alt="Screenshot 2026-11-04 112550" src="https://github.com/user-attachments/assets/944ca39d-6c0b-4c24-af8d-804e57117a22" />
 
+### Client data
+<img width="1896" height="342" alt="Screenshot 2026-11-10 132443" src="https://github.com/user-attachments/assets/a16acbe2-cd91-4231-a749-8cc9edd36d43" />
 
+### Policies data 
+<img width="849" height="402" alt="Screenshot 2026-11-10 132556" src="https://github.com/user-attachments/assets/4a2fcebf-0e2e-48b5-ac74-eac8596ed8b5" />
 
 ## Techniques Used 
 
